@@ -26,8 +26,11 @@ It's a pleasant story, maybe.
 3.项目开发工具
 
 Adobe Premiere Pro CC 2019
+
 Adobe Photoshop CC 2019
+
 Adobe After Effects CC 2019
+
 剪映
 
 4.项目运行环境
