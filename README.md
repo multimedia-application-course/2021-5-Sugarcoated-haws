@@ -42,3 +42,10 @@ System Model: 80RU
 BIOS: E5CN63WW (type: UEFI)
 Processor: Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz (4 CPUs), ~2.3GHz
 Memory: 8192MB RAM
+
+五、附件
+
+视频已放百度云盘
+
+链接：https://pan.baidu.com/s/1JxirxWE0u8wQbtOYrVvo7g 
+提取码：4jkl 
